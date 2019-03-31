@@ -6,4 +6,4 @@ const newHeader = document.createElement("h1");
 
 newHeader.id = 'victory';
 
-newHeader.innerText = "<h1>Byron is the champion</h1>";
+newHeader.innerText = "Byron is the champion";
